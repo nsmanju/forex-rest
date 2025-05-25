@@ -35,7 +35,7 @@ def get_live_data(api_key, currencies, fields=None):
 
 if __name__ == "__main__":
     # Replace with your actual valid API key
-    API_KEY = "Qw2pdg3IAcJUbtG2EHdk"
+    API_KEY = "Your Key"
     CURRENCY_PAIRS = ["EURUSD", "GBPUSD", "USDJPY", "AUDUSD", 
                       "USDCHF", "USDCAD", "NZDUSD", "EURJPY", 
                       "EURCHF", "GBPCHF", "GBPJPY"]
