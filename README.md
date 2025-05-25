@@ -1,6 +1,6 @@
-#forex-rest
+# forex-rest
 
-@@Fetch Live Data from Tradermade Exchange with REST API and Python
+## Fetch Live Data from Tradermade Exchange with REST API and Python
 
 ```
 This Pythom code fetches live forex data from tradermade.com exchange. The currency pairs are kept in an array
